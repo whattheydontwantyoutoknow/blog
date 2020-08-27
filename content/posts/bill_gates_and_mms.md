@@ -1,18 +1,12 @@
 ---
 draft: false
 title: "Bill Gates and Mms"
-date: 2020-08-27T07:54:49+02:00
-description: "Description of the post (displayed in the post's card)"
-categories: ["Add comma separated categories here", "another category"]
+date: 2015-03-27T07:54:49+02:00
+description: "Why Bill Gates invest in MMS?"
+categories: ["blog"]
 toc: false
 displayInMenu: true
 displayInList: true
-resources:
-- name: featuredImage
-  src: "bill.png"
-  params:
-    description: "Description for the featured image, used as the alt text"
-
 ---
 
 ![Bill Gates](/posts/bill.jpg)

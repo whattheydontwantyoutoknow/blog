@@ -3,7 +3,7 @@ draft: false
 title: "Bill Gates and Mms"
 date: 2015-03-27T07:54:49+02:00
 description: "Why Bill Gates invest in MMS?"
-categories: ["blog"]
+categories: ["MMS", "Bill"]
 toc: false
 displayInMenu: true
 displayInList: true
